@@ -1,1 +1,1 @@
-# photointent-android-example
+# PhotoIntent android example
